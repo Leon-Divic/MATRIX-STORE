@@ -1,0 +1,111 @@
+.gornji{
+    margin-left: 100px;
+    margin-right: 100px;
+
+    background-color: darkgreen;
+
+    border-radius: 50%;
+    border: solid green;
+    text-align: center;
+    
+}
+
+.naslov{
+    width: 500px;
+    background-color: white;
+    font-size: 3rem;
+    font-family: cursive;
+    color: darkgreen;
+    position: relative;
+    left: 30%;
+
+}
+
+.boja {
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8lWfmMpgCh8LbnZD0tfPA_kCAHX6Ww1yScQ&usqp=CAU);
+    background-repeat:unset;
+}
+
+.Sportslike{
+    width: 50%;
+    height: 200px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.Sportlista{
+    list-style: none;
+    display: inline-block;
+    color: #f2f2f2;
+    width: 550px;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 17px;
+    
+}
+.A{
+    text-decoration: none;
+    background-color: green;
+    color: white;
+    display: inline;
+    text-transform: uppercase;
+    font-size: 30px;
+    position: relative;
+    bottom: 50%;
+    
+    
+}
+
+.B{
+    display: block;
+    height: 200px;
+    
+}
+
+.naslovih3{
+    color:whitesmoke ;
+    font-size: 2rem;
+    text-shadow: 2px 2px;
+    margin-left: 50px;
+
+
+}
+
+p{
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.donji{
+    background-color: green;
+    
+}
+
+hr{
+    background-color: white;
+}
+
+
+
+#menu{
+    list-style: none;
+    float: left;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    text-decoration: none;
+}
+
+
+
+
+
+.kontaktbody{
+    background-color: green;
+}
+
+.slikekontakt{
+    height: 100px;
+    width: 100px;
+}
